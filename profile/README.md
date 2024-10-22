@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ Patter-Q is creating a CNN for Image Classification.
+🙋‍♀️ Pattern-Q is creating a CNN for Image Classification.
+
+
 <!--
 
 **Here are some ideas to get you started:**
